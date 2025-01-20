@@ -23,9 +23,9 @@ This repository contains materials for a **30-hour Cybersecurity Course** design
 ```
 ednue-cybersecurity-bootcamp/
 │── README.md              # Course Overview and Guidelines
-│── Day01/                 # Introduction to Cybersecurity
-│── Day02/                 # CIA Triad Deep Dive
-│── Day03/                 # Identification & Authentication
+│── Notes/Day01/                 # Introduction to Cybersecurity
+│── Notes/Day02/                 # CIA Triad Deep Dive
+│── Notes/Day03/                 # Identification & Authentication
 │── ...
 │── Assessments/           # Assignments and Quizzes
 │── Resources/             # External References and Reading Material
