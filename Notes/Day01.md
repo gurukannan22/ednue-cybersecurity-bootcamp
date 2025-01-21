@@ -43,10 +43,4 @@ When you enter your Gmail password, it is encrypted to prevent hackers from stea
 
 ---
 
-### **📖 Homework (To Be Submitted in the Next Class)**  
-1️⃣ Research a **real-world cybersecurity attack** (e.g., Facebook data breach, WannaCry) and write a **3-5 sentence summary**.  
-2️⃣ List **three ways** companies protect user data online.  
-
----
-
 Stay safe online! 🔐💻
