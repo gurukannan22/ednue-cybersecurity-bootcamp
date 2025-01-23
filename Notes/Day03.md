@@ -1,8 +1,4 @@
 # 📚 **IAAA – Identification, Authentication, Authorization, and Accountability**  
-
-
-Today, we will learn about **IAAA**, which is essential for securing computer systems and networks. It helps in managing who can access what, ensuring security.  
-
 ---
 
 ## **🔹 IAAA - The Four Pillars of Security**  
