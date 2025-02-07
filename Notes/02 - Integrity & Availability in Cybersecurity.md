@@ -1,4 +1,4 @@
-# **📚 Day 03: Integrity & Availability in Cybersecurity**  
+# **📚 Integrity & Availability in Cybersecurity**  
 
 In cybersecurity, the **CIA Triad** helps protect information. Yesterday, we learned about **Confidentiality** (keeping data secret). Today, we focus on:  
 

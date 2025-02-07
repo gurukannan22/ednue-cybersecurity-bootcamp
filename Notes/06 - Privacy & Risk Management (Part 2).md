@@ -1,4 +1,4 @@
-# Day 7: Privacy & Risk Management (Part 2)
+# Privacy & Risk Management (Part 2)
 
 ---
 

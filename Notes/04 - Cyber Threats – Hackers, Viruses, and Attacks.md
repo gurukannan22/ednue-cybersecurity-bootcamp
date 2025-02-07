@@ -1,4 +1,4 @@
-## **📚 Day 2: Cyber Threats – Hackers, Viruses, and Attacks**  
+## **📚Cyber Threats – Hackers, Viruses, and Attacks**  
 
 A **cyber threat** is any activity that can harm computers, networks, or data. These threats come from **hackers, malware, and other attacks**.  
 

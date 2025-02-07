@@ -1,4 +1,4 @@
-# Day 6: Privacy & Risk Management (Part 1)
+# Privacy & Risk Management (Part 1)
 
 ### **1️⃣ What is Privacy?**  
 - **Privacy** means protecting personal and sensitive information from being shared, stolen, or misused.  

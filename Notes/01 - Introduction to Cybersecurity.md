@@ -1,5 +1,5 @@
  
-# **📌 Day 1: Introduction to Cybersecurity & CIA Triad (Confidentiality)**  
+# **📌Introduction to Cybersecurity & CIA Triad (Confidentiality)**  
 
 ---
 
